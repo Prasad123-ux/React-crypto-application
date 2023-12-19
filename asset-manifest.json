@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-crypto-application/static/css/main.e6c13ad2.css",
+    "main.js": "/React-crypto-application/static/js/main.d902eb16.js",
+    "static/js/787.284a3ba0.chunk.js": "/React-crypto-application/static/js/787.284a3ba0.chunk.js",
+    "static/media/bitcoin.jpg": "/React-crypto-application/static/media/bitcoin.ee78f298fbcc1318dfac.jpg",
+    "index.html": "/React-crypto-application/index.html",
+    "main.e6c13ad2.css.map": "/React-crypto-application/static/css/main.e6c13ad2.css.map",
+    "main.d902eb16.js.map": "/React-crypto-application/static/js/main.d902eb16.js.map",
+    "787.284a3ba0.chunk.js.map": "/React-crypto-application/static/js/787.284a3ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d902eb16.js"
+  ]
+}
